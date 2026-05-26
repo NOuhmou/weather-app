@@ -64,12 +64,3 @@ Design responsive avec CSS Flexbox
 
 Utilisation de gradients CSS et box-shadows
 
-
-
-## 📞 Contact
-Najat Oudaoud Ouhmou
-
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-
-⭐ N'hésitez pas à laisser une étoile si ce projet vous a aidé !
